@@ -43,7 +43,7 @@ nav li{
  
 }
 nav a:hover, a:visited{
-    color: #0984e3;
+    color: lightpink;
 }
 
 nav a:active{

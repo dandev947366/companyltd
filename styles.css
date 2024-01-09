@@ -42,8 +42,13 @@ nav li{
     
  
 }
-nav a:hover{
+nav a:hover, a:visited{
     color: #0984e3;
+}
+
+nav a:active{
+    color: lightpink;
+
 }
 input{
     float: right;
